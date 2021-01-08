@@ -1,0 +1,7 @@
+num=int(input("Enter the number:")) #879====8*8*8
+res=0
+while(num>0):
+    digit=num%10
+    res=res+digit+3
+    num//=10
+print(res)

@@ -1,0 +1,5 @@
+a=int(input("Enter your nmbers:"))
+b=int(input())
+c=int(input())
+average=((a+b+c)/3)
+print("average is ",average)
