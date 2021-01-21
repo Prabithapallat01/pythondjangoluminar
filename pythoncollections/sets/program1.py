@@ -1,0 +1,12 @@
+#names=["ajay","alan","ajay","ajay"]
+#nset=set(names)
+#print(nset)
+#lst=list(nset)
+#print(lst)
+st1={12,34,56,78,90}
+st2={23,56,44,78,23}
+#unset=st1.union(st2)
+#print(unset)
+inter=st1.intersection(st2)
+print(inter)
+#difference

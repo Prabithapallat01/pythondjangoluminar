@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f6f994f9-cbbe-422c-afcb-cc8fef4d4867" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythoncollections/list/binarysearching.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoncollections/list/binarysearching.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythoncollections/list/linearsearching.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoncollections/list/linearsearching.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythoncollections/tuples/example1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoncollections/tuples/example1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +38,8 @@
       <recent name="C:\Users\itg\PycharmProjects\LuminarPythonproject1\mathpack" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.binarysearching">
-    <configuration name="binarysearching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.firstrecursiveword">
+    <configuration name="employees" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LuminarPythonproject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,11 +47,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythoncollections/list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythoncollections/dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythoncollections/list/binarysearching.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythoncollections/dictionary/employees.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="emptylist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fileopone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LuminarPythonproject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythoncollections/list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fileIO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythoncollections/list/emptylist.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileIO/fileopone.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="example1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="firstrecursiveword" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LuminarPythonproject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythoncollections/list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythoncollections/dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythoncollections/list/example1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythoncollections/dictionary/firstrecursiveword.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="example2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="work1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LuminarPythonproject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythoncollections/list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythoncollections/sets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythoncollections/list/example2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythoncollections/sets/work1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="program2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="work1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LuminarPythonproject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythoncollections/list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythoncollections/dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythoncollections/list/program2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythoncollections/dictionary/work1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.binarysearching" />
-        <item itemvalue="Python.example2" />
-        <item itemvalue="Python.example1" />
-        <item itemvalue="Python.program2" />
-        <item itemvalue="Python.emptylist" />
+        <item itemvalue="Python.firstrecursiveword" />
+        <item itemvalue="Python.work1 (1)" />
+        <item itemvalue="Python.fileopone" />
+        <item itemvalue="Python.work1" />
+        <item itemvalue="Python.employees" />
       </list>
     </recent_temporary>
   </component>
