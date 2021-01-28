@@ -1,0 +1,11 @@
+text="hai hello hai hello"
+words=text.split(" ")
+#words="hai, hello, hai, hello
+dict={}
+
+for word in  words:#hai
+    if(word not in dict):
+        dict[word]=1
+    else:
+        dict[word]+=1
+print(dict)
