@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+    background-color:#dfe3ee
+}
+.fb{
+    margin-top: 240px;
+    margin-left: 150px;
+}
+
+h1{
+    font-size: 55px;
+    color:#1877f2;
+    font-family: inherit;
+}
+h2{
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+
+}
+.container{
+    margin-top: 194px;
+    width: 400px;
+    height:350px;
+    margin-right: 160px;
+    float: right;
+    border-radius: 12px;
+    background-color: white;
+    text-align: center ;
+    margin-top:-250px;
+}
+.form{
+    float: right;
+    margin-top:-12px;
+    
+    padding: 30px;
+}
+.form input{
+    margin-top: 10px;
+    margin-left: -10px;
+    border-radius: 8px;
+    margin-right: -10px;
+    padding: 17px;
+    width: 330px;
+    height: 55px;
+
+}
+button{
+    margin-top: -15px;
+    padding: 17px;
+    width: 332px;
+    background-color:#1877f2;;
+    font-size: 18px;
+    border-radius: 7px;
+    font-family: sans-serif;
+    color: white;
+    height: 55px;
+}
+p{
+    font-size: 16px;
+    color: blue;
+    margin-top: 10px;
+}
+.btn{
+padding: 7px;
+background-color: white;
+margin-left: 20px;
+margin-right: 20px;
+margin-top: -40px;
+
+
+}
+.btn button{
+    background-color: #1b9c24;
+    width: 210px;
+    height: 55px;
+}
+r1{
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
+}
+p{
+    color: black; 
+}

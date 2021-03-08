@@ -10,7 +10,7 @@ employee={1000:{"id":1000,"name":"leena","salary":20000,"exp":1},
 # print_employee(id=1003)
 
 
-# print employee[1001]
+z# print employee[1001]
 
 # if 1001 in employee:
 #     print(employee[1001]["name"])

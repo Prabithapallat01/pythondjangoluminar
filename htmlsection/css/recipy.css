@@ -1,0 +1,40 @@
+body{
+    background-image: url("images.jfif");
+}
+h1{
+    color: rgb(15, 13, 13);
+    text-align: center;
+}
+
+.snacks{
+    background-color:#a587b9;
+    border-style: solid;
+    border-color: rgb(61, 13, 13);
+    border-width: 1px;
+    width: 30%;
+}
+#vada{
+    color: rgb(2, 43, 41);
+    text-align: center;
+
+}
+#pori{
+    color: rgb(107, 14, 53);
+    text-align: center;
+}
+#Sandwitch{
+    color: rgb(11, 59, 11);
+    text-align: center;
+}
+
+#mangos{
+    background-color: rgb(75, 39, 3);
+    width: 30%;
+    border-color: maroon;
+    border-style: solid;
+    border-width: 1px;
+}
+#pickle{
+    color: rgb(64, 88, 18);
+    text-align: center;
+}

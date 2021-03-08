@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(129, 146, 80);
+    background-image: url("How-to-Boost-Your-Images’-Visibility-on-Google-Images-760x400.png");
+}
+h1{
+    color: rgb(92, 22, 22);
+    text-align: center;
+}
+
+#samsung{
+    background-color:#a7d6d5;
+    border-style: solid;
+    border-color: darkslategray;
+    border-width: 1px;
+    width: 30%;
+}
+#j4{
+    color:ghostwhite;
+    text-align: center;
+}
+#ser{
+    background-color: #fff;
+    width: 30%;
+    border-style: solid;
+    border-color: darkslategray;
+    border-width: 1px;
+
+}
+.first{
+    background-color: #d0b8e6;
+    width: 30%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(238, 220, 120);
+}
+#ma{
+    color: hotpink;
+    text-align: center;
+}

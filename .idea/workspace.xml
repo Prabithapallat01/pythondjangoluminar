@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="f6f994f9-cbbe-422c-afcb-cc8fef4d4867" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/queue1.py" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/queue1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam_questions/while_loop/number_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_questions/while_loop/number_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythoncollections/dictionary/nested_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoncollections/dictionary/nested_dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regular_expression/rule.py" beforeDir="false" afterPath="$PROJECT_DIR$/regular_expression/rule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regular_expression/vehicle.py" beforeDir="false" afterPath="$PROJECT_DIR$/regular_expression/vehicle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/work1.py" beforeDir="false" afterPath="$PROJECT_DIR$/work/work1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -29,10 +34,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/fileIO" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -42,8 +49,8 @@
       <recent name="C:\Users\itg\PycharmProjects\LuminarPythonproject1\mathpack" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.vehicle">
-    <configuration name="predefined_characters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.evenrange">
+    <configuration name="counting_characters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LuminarPythonproject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular_expression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_questions/samples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular_expression/predefined_characters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_questions/samples/counting_characters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quantifiers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="evenrange" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LuminarPythonproject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular_expression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flow_controls/looping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular_expression/quantifiers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flow_controls/looping/evenrange.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sample3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LuminarPythonproject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular_expression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_questions/samples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular_expression/sample3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_questions/samples/numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vehicle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="permutatiions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LuminarPythonproject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/regular_expression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_questions/samples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regular_expression/vehicle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_questions/samples/permutatiions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="work1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="re_compile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LuminarPythonproject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_questions/samples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work/work1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_questions/samples/re_compile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.vehicle" />
-        <item itemvalue="Python.work1" />
-        <item itemvalue="Python.quantifiers" />
-        <item itemvalue="Python.predefined_characters" />
-        <item itemvalue="Python.sample3" />
+        <item itemvalue="Python.evenrange" />
+        <item itemvalue="Python.counting_characters" />
+        <item itemvalue="Python.permutatiions" />
+        <item itemvalue="Python.re_compile" />
+        <item itemvalue="Python.numbers" />
       </list>
     </recent_temporary>
   </component>

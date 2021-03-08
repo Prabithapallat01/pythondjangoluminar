@@ -31,12 +31,20 @@
 
 
 lst=[1,2,3,4,5,6]
+print("Before Rotation:",lst)
 d=3
 n=6
-for i in range(0,d):
-    temp=lst[0]           #TEMP=1
-    for j in range(0,n-1):  # j=0  1
-        lst[j]=lst[j+1]   #  2,  3,4,
-    lst[n-1]=temp
-for  i in range(0,n):
-    print(lst[i],end=" ") #   4,5,6,1,2,3
+def rotation(lst,d):
+    for i in range(0,d):
+        temp=lst[0]           #TEMP=1
+        for j in range(0,n-1):  #((0,5)j=0,               j=1       j=2        j=3         j=4
+            lst[j]=lst[j+1]   #  lst[0]=lst[1],  lst[0]=2  lst[1]=3  lst[2]=4   lst[3]=5  lst[4]=6
+        lst[n-1]=temp
+    return lst
+rotatedlist=rotation(lst,d)
+print("Before Rotation:",rotatedlist)
+
+
+
+
+

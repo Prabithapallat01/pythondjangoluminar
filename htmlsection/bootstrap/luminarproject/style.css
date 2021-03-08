@@ -1,0 +1,122 @@
+body{
+    height: 1000px;
+}
+
+
+.hu{
+    background-color: #5e068a;
+    font-size:  13px;
+    position: relative;
+    color: white;
+    font-weight: 400;
+    padding: 10px;
+    text-align: center;
+}
+a{
+
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    position: relative;
+    padding: 30px;
+    text-align: center;
+    color: black;
+
+
+    
+   
+}
+.navbar{
+    position: sticky; 
+    background-color: white;
+    
+}
+h2{
+    color: #5e068a;
+    font-weight: 600;
+    font-size: 32px;
+}
+span{
+    color: #5e068a99
+}
+p{
+    font-size: 15px;
+    max-width: 565px;
+    margin-bottom: 15px;
+    line-height: 28px;
+    
+}
+#btn{
+    text-transform: uppercase;
+    
+    font-size: 14px;
+    border-radius: 60px;
+    margin-top: -220px;
+}
+button:hover{
+
+    background-color:white; 
+    border: 2px solid #5e068a; 
+    border-radius: 50px;
+    color: #5e068a;
+}
+.cam{
+    position: relative;
+    top: 260px;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.part{
+    position: relative;
+    top: 280px;
+    padding: 50px 100px 65px;
+    background-color: #fbfbfb;
+}
+h3{
+    font-size: 20px;
+    font-weight: 700px;
+    color: #5e068a;
+    margin-top: 20px;
+}
+p{
+    margin-bottom: 15px;
+    line-height: 1.8;
+}
+.part5{
+    position: relative;
+    top: 320px;
+    padding: 50px 100px 65px;
+    background-color: #fbfbfb;
+    line-height: 28px;
+    
+   
+
+    
+}
+.btn-primary{
+    background-color:  #5e068a;
+    border: #5e068a;
+    padding-bottom: 10px;
+}
+.stroked-btn {
+    padding: 16px 27px;
+    font-weight: 600;
+    margin-top: 21px;
+    border-radius: 50px;
+    border: 2px solid #5e068a;
+    color: #5e068a;
+    text-transform: lowercase;
+    left: 50%;
+    top: 20px;
+
+}
+
+
+
+
+
+
+
+    
+

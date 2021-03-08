@@ -1,0 +1,17 @@
+.top{
+    background-color: chocolate;
+    height: 80px;
+    width: 50%;
+    margin-left:30%;
+   padding-top: 5px;
+   padding-left: 23%;
+}
+.bottom{
+    background-color: crimson;
+    height: 80px;
+    width: 50%;
+    margin-top: 5px;
+    margin-bottom: 30%;
+    margin-left: 30%;
+    padding-top: 5px;
+}

@@ -1,0 +1,70 @@
+body{
+    margin: 0px;
+    padding: 100px;
+    background-color: darkcyan;
+}
+
+#laps h1{
+    font-weight: 900;
+    font-size: 44px;
+    color: rgb(4, 100, 28);
+    padding-bottom: 3px;
+}
+#laps p{
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+    color: black;
+}
+
+
+
+.title{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(156, 15, 15);
+    margin-top: 8px;
+}
+
+.card-text-center{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: black;
+}
+#btn{
+    
+    margin-top: 28px;
+    
+    padding: 19px;
+    font-size: 20px;
+    
+}
+#btn1{
+    margin-top: 20px;
+    
+    padding: 10px;
+    font-size: 20px;
+
+}
+#btn2{
+    margin-top: 20px;
+    
+    padding: 22px;
+    font-size: 20px;
+
+}
+#btn3{
+    margin-top: 20px;
+    
+    padding: 22px;
+    font-size: 20px;
+
+}
+.title1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(156, 15, 15);
+    margin-top: 10px;
+
+}

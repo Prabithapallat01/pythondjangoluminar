@@ -1,0 +1,45 @@
+img{
+    height: 100px;
+    width: 150px;
+    padding-top: 10px;
+    padding-left: 79px;
+    
+    
+    
+}
+#underline{
+    width: 258px;
+    height: 1px;
+    background-color:  #4c8f00;
+    bottom: 5px;
+    margin-top: 10px;
+}
+h1{
+    
+   padding-top: 30px;
+
+}
+span{
+    font-weight:normal;
+}
+#underline1{
+    width: 100%;
+    height: 2px;
+    background-color:   #4c8f00;
+    bottom: 5px;
+    margin-top: 10px;
+
+    
+}
+.part2{
+    font-weight: 700;
+}
+h2{
+    font-size: 20px;
+     font-weight: 800px;
+}
+#lst{
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: end;
+}
