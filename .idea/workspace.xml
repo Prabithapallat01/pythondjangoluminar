@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6f994f9-cbbe-422c-afcb-cc8fef4d4867" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_questions/while_loop/number_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_questions/while_loop/number_pattern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythoncollections/dictionary/nested_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoncollections/dictionary/nested_dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/regular_expression/rule.py" beforeDir="false" afterPath="$PROJECT_DIR$/regular_expression/rule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/regular_expression/vehicle.py" beforeDir="false" afterPath="$PROJECT_DIR$/regular_expression/vehicle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/work1.py" beforeDir="false" afterPath="$PROJECT_DIR$/work/work1.py" afterDir="false" />
-    </list>
+    <list default="true" id="f6f994f9-cbbe-422c-afcb-cc8fef4d4867" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

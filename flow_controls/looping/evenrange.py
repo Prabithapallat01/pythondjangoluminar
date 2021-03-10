@@ -1,3 +1,6 @@
+# Find even numbers in given limit:
+
+
 limit=int(input("Enter the limit:"))
 i=1
 while(i<=limit):#1<=5

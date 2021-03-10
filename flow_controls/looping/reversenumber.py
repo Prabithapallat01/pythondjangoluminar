@@ -7,7 +7,7 @@ rev=0
     #num=num//10
 while(num!=0):
     digit=num%10
-    rev=rev*10+rev
+    rev=rev*10+digit
     num=num//10
 print("rev=",rev)
 

@@ -1,35 +1,12 @@
-.part{
-    background-color: burlywood;
-    font-size: 20px;
+body{
+    background-color: rgb(85, 72, 53);
+    font-size: 14px;
+    line-height: 22px;
+    color: blueviolet;
 }
-img{
-    height: 100px;
-    width: 120px;
-    padding-top: 10px;
-    padding-left: 39px;
-}
-#underline{
-    width: 200px;
-    height: 5px;
-    background-color: coral;
-    bottom: 5px;
-    margin-top: 10px;
 
-}
-#underline1{
-    width: 100%;
-    height: 5px;
-    background-color: coral;
-    bottom: 5px;
-    margin-top: 10px;
-}
-.part2{
+.bold{
     font-weight: 700;
-}
-span{
-    font-weight:normal
-
-}
-part{
     font-size: 20px;
+    text-transform: uppercase;
 }

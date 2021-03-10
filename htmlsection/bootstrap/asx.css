@@ -1,0 +1,77 @@
+
+    
+
+body{
+    background: rgb(85, 72, 53);
+    font-size: 14px;
+    line-height: 22px;
+    color: rgb(94, 19, 165);
+}
+
+.bold{
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.resume{
+    width: 800px;
+    height: auto;
+    display: flex;
+    margin: 50px auto;
+}
+.resume .resume_left{
+    width: 280px;
+    background: blueviolet;
+}
+.resume .resume_left .resume_profile{
+    width: 100px;
+    height: 280px;
+}
+.resume .resume_left .resume_profile img{
+    width: 200px;
+    height: 200px;
+    padding-top: 10px;
+    padding-left: 49px;
+}
+.resume .resume_left .resume_content{
+    padding: 0 25px;
+}
+.resume .title{
+    margin-bottom: 20px;
+}
+.resume .resume_left .bold{
+    color:cornsilk;
+}
+.resume .resume_left .regular{
+    color: aquamarine;
+}
+.resume .resume_item{
+    padding: 25px 0;
+    border-bottom: 2px solid darkmagenta;
+}
+.resume .resume_left .resume_item:last-child{
+    border-bottom: 0px;
+}
+.resume .resume_right{
+    width: 520px;
+    background: cornsilk;
+    padding: 25px;
+}
+.resume .resume_right .bold{
+    color: darkmagenta;
+}
+.part2{
+    font-weight: 700;
+
+    }
+span{
+    font-weight:normal;
+    }
+    #lst{
+        text-transform: uppercase;
+        font-weight: 700;
+        text-align: end;
+    }
+    .resume .resume_right .resume_item:last-child{
+        border-bottom: 0px;
+    }
